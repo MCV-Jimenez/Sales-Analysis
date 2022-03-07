@@ -6,9 +6,8 @@
 ### Table of Contents
 
 - [Description](#description)
-- [Methods Used](#Methods-Used)
+- [Methods Used](#methods-used)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
@@ -16,7 +15,6 @@
 ## Description
 
 This is a basic sales analysis project aimed at analyzing sales data for a company. The project consists of inspecting, cleaning, analyzing, preparing data for machine learining, and executing machine learning models.
-> The goal is to use the data to help the company increase sales
 
 #### Methods Used
 > All code written using Python
