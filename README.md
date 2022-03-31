@@ -23,6 +23,9 @@ The large majority of items in the Max Retail price column have a max retail pri
 
 ![Histplot, Item Outlet Sales](https://user-images.githubusercontent.com/97704503/161152305-f7fb237e-0476-419c-b761-d3f40f4ce249.png)
 
+![download](https://user-images.githubusercontent.com/97704503/161154511-a0e7e4ff-98f4-4ece-a095-05b4632181c4.png)
+
+
 #### Methods Used
 > All code written using Python
 - Pandas for data manipulation: Filling missing values, fixing inconsistent categories
