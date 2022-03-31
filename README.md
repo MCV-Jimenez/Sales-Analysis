@@ -16,14 +16,14 @@
 
 This is a basic sales analysis project aimed at analyzing sales data for a company. The project consists of inspecting, cleaning, analyzing, preparing data for machine learining, and executing machine learning models.
 
-The Presentation will focus on simple sales analysis with visualizations:
+The Presentation will focus on improving sales through multiple factors:
 
 The large majority of items in the Max Retail price column have a max retail price of about 75 -200 dollars
-![Histogram, Item_MRP](https://user-images.githubusercontent.com/97704503/161151289-63372be6-0daf-4bf1-922d-d0e12fbc4e8c.png)
+![download (1)](https://user-images.githubusercontent.com/97704503/161154809-93cc77e3-af1b-4713-9e41-794dc7e6af88.png)g)
 
-![Histplot, Item Outlet Sales](https://user-images.githubusercontent.com/97704503/161152305-f7fb237e-0476-419c-b761-d3f40f4ce249.png)
+![download](https://user-images.githubusercontent.com/97704503/161154868-9399df6f-a139-4e54-8426-8da150f13307.png)
 
-![download](https://user-images.githubusercontent.com/97704503/161154511-a0e7e4ff-98f4-4ece-a095-05b4632181c4.png)
+![download (2)](https://user-images.githubusercontent.com/97704503/161154839-6117f3de-957d-4011-9784-b270566b5975.png)
 
 
 #### Methods Used
