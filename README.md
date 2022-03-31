@@ -15,7 +15,9 @@
 ## Description
 
 This is a basic sales analysis project aimed at analyzing sales data for a company. The project consists of inspecting, cleaning, analyzing, preparing data for machine learining, and executing machine learning models.
-
+![Project Image](![Histogram, Item_MRP](https://user-images.githubusercontent.com/97704503/161151289-63372be6-0daf-4bf1-922d-d0e12fbc4e8c.png))
+![Project Image]
+![Project Image]
 #### Methods Used
 > All code written using Python
 - Pandas for data manipulation: Filling missing values, fixing inconsistent categories
