@@ -19,32 +19,13 @@ This is a basic sales analysis project aimed at analyzing sales data for a compa
 #### Methods Used
 > All code written using Python
 - Pandas for data manipulation: Filling missing values, fixing inconsistent categories
-```python
-#Libraries used
-import pandas as pd
-import numpy as np
-```
+
 - Exploratory visualizations: Multiple graph visualizations to analyze the data more in depth and draw conclusions
-```python
-#Libraries used
-import matplotlib.pyplot as plt
-import seaborn as sn
-```
+
 - Machine learning prep: Using column transformers and pipelines to format the dataset to be used in Machine Learning
-```python
-#Libraries used
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.impute import SimpleImputer
-from sklearn.compose import make_column_transformer, make_column_selector
-from sklearn.pipeline import make_pipeline
-from sklearn.model_selection import train_test_split
-```
+
 - Regression Models: Applying multiple regression models to make sales predictions on the data 
-```python
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.linear_model import LinearRegression
-```
+
 ---
 
 ## References
