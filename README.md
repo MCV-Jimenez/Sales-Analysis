@@ -16,7 +16,7 @@
 
 This is a basic sales analysis project aimed at analyzing sales data for a company. The project consists of inspecting, cleaning, analyzing, preparing data for machine learining, and executing machine learning models.
 
-The Presentation will focus on simple sales analysis with :
+The Presentation will focus on simple sales analysis with visualizations:
 
 The large majority of items in the Max Retail price column have a max retail price of about 75 -200 dollars
 ![Histogram, Item_MRP](https://user-images.githubusercontent.com/97704503/161151289-63372be6-0daf-4bf1-922d-d0e12fbc4e8c.png)
