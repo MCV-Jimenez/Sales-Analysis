@@ -18,8 +18,7 @@ This is a basic sales analysis project aimed at analyzing sales data for a compa
 
 The Presentation will focus on improving sales through multiple factors:
 
-The large majority of items in the Max Retail price column have a max retail price of about 75 -200 dollars
-![download (1)](https://user-images.githubusercontent.com/97704503/161154809-93cc77e3-af1b-4713-9e41-794dc7e6af88.png)g)
+![download (1)](https://user-images.githubusercontent.com/97704503/161154809-93cc77e3-af1b-4713-9e41-794dc7e6af88.png)
 
 ![download](https://user-images.githubusercontent.com/97704503/161154868-9399df6f-a139-4e54-8426-8da150f13307.png)
 
